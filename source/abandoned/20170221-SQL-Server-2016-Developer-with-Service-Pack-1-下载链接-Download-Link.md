@@ -3,6 +3,8 @@ title: 'SQL Server 2016 Developer with Service Pack 1 下载链接 [Download Lin
 date: 2017-02-21 17:42:16
 tags: [SQL,Software]
 ---
+asdfsao
+<!-- more -->
 # SQL Server 2016 Developer with Service Pack 1 (x64) - DVD (Chinese-Simplified)
 
 文件名： cn_sql_server_2016_developer_with_service_pack_1_x64_dvd_9547670.iso

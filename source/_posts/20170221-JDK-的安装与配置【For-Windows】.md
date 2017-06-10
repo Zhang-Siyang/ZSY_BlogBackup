@@ -3,6 +3,8 @@ title: JDK 的安装与配置【For Windows】
 date: 2017-02-21 23:15:17
 tags: [JDK,Java,Guide]
 ---
+总是被叫走装环境，干脆写篇博客算了
+<!-- more -->
 
 ## JDK 的安装
 
