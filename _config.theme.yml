@@ -6,7 +6,7 @@
 favicon: /ZhangSiyang_logo.png
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "ZhangSiyang,CE.BB.CAT,CEBBCAT,Blog"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -164,7 +164,7 @@ social_icons:
   V2EX: hand-o-left
   Twitter: twitter
   NetEase: music
-  Email: email
+  Email: envelope-open
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
