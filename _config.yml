@@ -90,6 +90,7 @@ pagination_dir: page
 plugin:
 - hexo-generator-feed
 - hexo-generator-sitemap
+#- hexo-generator-seo-friendly-sitemap
 
 sitemap:
     path: sitemap.xml
