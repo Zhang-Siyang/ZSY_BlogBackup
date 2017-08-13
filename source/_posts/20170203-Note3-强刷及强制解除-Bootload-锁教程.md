@@ -19,14 +19,16 @@ tags: [XiaoMi,RedMi Note3,Guide,Unlock,Flash]
 ## 强行解锁bootloader##
 1. 将线刷前的手机系统开启 开发者模式 并开启 OEM解锁模式
 2. 用 Unlocked_Bootloader.zip 中的 emmc_appsboot.mbn 替换线刷包中的对应文件
-3. 在9008模式下用文末提供的刷机工具刷入经替换之后的线刷包【建议选择 清除所有数据 】。刷入之后进入 Fastboot 模式，在电脑端执行以下命令即可解除BL锁
- * `fastboot oem unlock-go`
-
- * `fastboot oem device-info`
-
- 第二条命令提示“Device unlocked：ture”【如下图】代表成功解锁，机器会震动后进入系统
- ![解锁成功](https://p1.bqimg.com/1949/a8a8d483042116a7.png)
- 若解锁失败，机器震动后将会闪两次 MI 字界面 之后黑屏，失败原因大多是线刷前系统未开启开发者模式-未勾选OEM解锁模式选项
+3. 在9008模式下用文末提供的刷机工具刷入经替换之后的线刷包【建议选择 清除所有数据 】。刷入之后进入 Fastboot 模式，在电脑端执行以下命令即可解除BL锁  
+  
+```  
+fastboot oem unlock-go
+fastboot oem device-info
+```
+  
+第二条命令提示“Device unlocked：ture”【如下图】代表成功解锁，机器会震动后进入系统
+![解锁成功](https://i.imgur.com/ydFqK7q.png)
+若解锁失败，机器震动后将会闪两次 MI 字界面 之后黑屏，失败原因大多是线刷前系统未开启开发者模式-未勾选OEM解锁模式选项
 
 
 
