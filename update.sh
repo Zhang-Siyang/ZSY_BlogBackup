@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Blog 日志编译与部属"
+echo "Blog 日志编译与部署"
 cd /var/www/blog
 hexo clean && hexo g && hexo d
 
