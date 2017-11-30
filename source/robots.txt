@@ -6,4 +6,4 @@ Disallow: /abandoned/
 Disallow: /js/
 Disallow: /css/
 
-Sitemap: http://blog.zhangsy.me/sitemap.xml
+Sitemap: /sitemap.xml
