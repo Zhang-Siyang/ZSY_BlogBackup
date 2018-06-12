@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Blog 日志编译与部署"
 cd /var/www/blog
-hexo clean && hexo g && hexo d
+hexo g && hexo d
 
 echo "Blog 备份"
 git add .
