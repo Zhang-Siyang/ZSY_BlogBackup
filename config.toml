@@ -24,5 +24,9 @@ googleAnalytics = "UA-96156731-1"
 description = "这里是张思扬的博客，写些心得。更多的是吐槽与无理取闹。"
 
 [[params.socials]]
-name = "About Me"
+name = "About"
 link = "/about.html"
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/Zhang-Siyang"
