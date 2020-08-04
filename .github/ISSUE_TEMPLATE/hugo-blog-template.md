@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
----
+-/--
 title: "Title"
 date: "gdate --rfc-3339=seconds"
 slug: "fixme"
@@ -19,5 +19,5 @@ tags:
   - "example"
   - "hugo"
   - "blog"
----
+-/--
 <!-- 20200501-about-program-design-for-work.md -->
